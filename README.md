@@ -126,6 +126,12 @@ logging.file.name=logs/app.log
 
 --- 
 
-## Section-4 UC1 
+## Section-4 UC-1 
 - **Validation in DTORequest for validating the name** 
-- **@Valid Annotation and @Pattern for name Field Validation**
+- **@Valid Annotation and @Pattern for name Field Validation** 
+
+--- 
+
+Section-4 UC-2 
+- **User Friendly Error message to name field validation** 
+- **Creating Global Exception for all controller for the name validation**
