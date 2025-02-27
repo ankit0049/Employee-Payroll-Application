@@ -8,6 +8,7 @@ class EmployeePayrollAppApplicationTests {
 
 	@Test
 	void contextLoads() {
+	    System.out.println("This is used to Test the Context Loads");
 	}
 
 }
