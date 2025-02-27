@@ -149,3 +149,4 @@ logging.file.name=logs/app.log
 - **Exception Handling:** Added `@ExceptionHandler` in `EmployeePayrollException` class to catch and handle the exception gracefully.
 - **Improved REST Responses:** Ensured that users receive meaningful error messages when querying non-existent Employee IDs.
 
+---
